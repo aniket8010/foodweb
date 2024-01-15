@@ -1,0 +1,38 @@
+@media screen and (max-width:768px) {
+ .a_banner{
+    width: 100%;
+ }
+ .a_menus{
+    width: 50% !important;
+ }
+ .a_banner .a_dish{
+    width: 100%;
+    left: 0;
+    right: 0;
+ }
+ a_content_shape{
+    left: 100px;
+ }
+ .a_banner .a_content{
+    width: 100%;
+    margin-top: 240px;
+ }
+ .a_banner .a_content h1{
+    font-size: 50px !important;
+ }
+ .a_banner .a_content h5{
+    font-size: 20px !important;
+ }
+ .a_banner .a_content p{
+    font-size: 15px !important;
+ }
+ .a_pricing_container{
+    top: 40%;
+ }
+
+}
+@media screen and (max-width:1358px) {
+    .a_price_img_box img {
+        object-position: 0px;
+    }
+}
