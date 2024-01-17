@@ -10,12 +10,12 @@
     left: 0;
     right: 0;
  }
- a_content_shape{
+ .a_content_shape{
     left: 100px;
  }
  .a_banner .a_content{
     width: 100%;
-    margin-top: 240px;
+    margin-top: 200px;
  }
  .a_banner .a_content h1{
     font-size: 50px !important;
